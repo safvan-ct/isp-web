@@ -1,0 +1,44 @@
+[
+    {
+        "slug": "islam",
+        "is_primary": 1,
+        "translations": [
+            {
+                "lang": "en",
+                "title": "Islam"
+            },
+            {
+                "lang": "ml",
+                "title": "ഇസ്ലാം"
+            }
+        ]
+    },
+    {
+        "slug": "beliefs",
+        "is_primary": 1,
+        "translations": [
+            {
+                "lang": "en",
+                "title": "Beliefs"
+            },
+            {
+                "lang": "ml",
+                "title": "വിശ്വാസങ്ങൾ"
+            }
+        ]
+    },
+    {
+        "slug": "life-of-muslim",
+        "is_primary": 1,
+        "translations": [
+            {
+                "lang": "en",
+                "title": "Life of Muslim"
+            },
+            {
+                "lang": "ml",
+                "title": "മുസ്ലിമിൻ്റെ ജീവിതം"
+            }
+        ]
+    }
+]

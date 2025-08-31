@@ -1,0 +1,54 @@
+[
+    {
+        "title": "Who should perform Hajj?",
+        "translations": [
+            {
+                "lang": "en",
+                "title": "Who should perform Hajj?"
+            },
+            {
+                "lang": "ml",
+                "title": "ആരൊക്കെ ഹജ്ജ് ചെയ്യണം?"
+            }
+        ]
+    },
+    {
+        "title": "What is the procedure of Hajj?",
+        "translations": [
+            {
+                "lang": "en",
+                "title": "What is the procedure of Hajj?"
+            },
+            {
+                "lang": "ml",
+                "title": "എങ്ങനെ ആണ് ഹജ്ജിന്റെ രൂപം?"
+            }
+        ]
+    },
+    {
+        "title": "What is Umrah and its procedure?",
+        "translations": [
+            {
+                "lang": "en",
+                "title": "What is Umrah and its procedure?"
+            },
+            {
+                "lang": "ml",
+                "title": "ഉംറയും അതിന്റെ രൂപവും?"
+            }
+        ]
+    },
+    {
+        "title": "Visiting graves (Ziyarah)",
+        "translations": [
+            {
+                "lang": "en",
+                "title": "Visiting graves (Ziyarah)"
+            },
+            {
+                "lang": "ml",
+                "title": "മഖ്ബറകളിലേക്കുള്ള സിയാറത്ത്"
+            }
+        ]
+    }
+]

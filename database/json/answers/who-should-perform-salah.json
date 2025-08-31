@@ -1,0 +1,55 @@
+[
+    {
+        "title": "who_should_pray",
+        "translations": [
+            {
+                "lang": "en",
+                "title": "Who is Salah obligatory upon?",
+                "desc": "In Islam, Salah (prayer) is an obligatory act of worship prescribed upon every Muslim who has reached puberty, is of sound mind, and is free from valid excuses. It is the second pillar of Islam and must be performed five times daily. Children are encouraged to pray from the age of seven and must be disciplined to establish Salah by the age of ten."
+            },
+            {
+                "lang": "ml",
+                "title": "ആർക്കെല്ലാം നിസ്‌കാരം നിർബന്ധമാണ്?",
+                "desc": "ഇസ്ലാമിൽ നിസ്‌കാരം (സലാഹ്) എന്നത് ബാല്യാവസ്ഥ കഴിഞ്ഞ, ബുദ്ധിശക്തി ഉള്ള, ശരീരശേഷിയുള്ള, മുസ്ലിം പുരുഷന്മാർക്കും സ്ത്രീകൾക്കും നിർബന്ധമാണ്. നിസ്‌കാരം ഇസ്ലാമിന്റെ രണ്ടാമത്തെ തൂണാണ്, ദിവസവും അഞ്ച് പ്രാവശ്യം നിർബന്ധമായും നിർവഹിക്കണം. കുട്ടികളെ ഏഴാം വയസുമുതൽ നിസ്‌കാരത്തിലേക്ക് പ്രോത്സാഹിപ്പിക്കാനും, പത്താം വയസിൽ അത് ഉറപ്പാക്കാനുമായി ശാസിക്കാനും പ്രവാചകൻ (സ) ഉപദേശിച്ചിട്ടുണ്ട്."
+            }
+        ],
+        "quran": [
+            {
+                "simplified": "إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَوْقُوتًا",
+                "translation_json": "{'ml':'നിസ്കാരം വിശ്വാസികൾക്ക് സമയാനുസൃതമായ കടമയായി നിർബന്ധിതമാണ്.'}",
+                "number_in_chapter": 103,
+                "chapter": 4
+            },
+            {
+                "simplified": "وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَارْكَعُوا مَعَ الرَّاكِعِينَ",
+                "translation_json": "{'ml':'നിസ്‌കാരം നിലനിർത്തുകയും, സകാത്ത് കൊടുക്കുകയും, വണങ്ങുന്നവരോടൊപ്പം നിങ്ങൾയും വണങ്ങുകയും ചെയ്യുക.'}",
+                "number_in_chapter": 43,
+                "chapter": 2
+            }
+        ],
+        "hadiths": [
+            {
+                "simplified": "رَأْسُ الأَمْرِ الإِسْلاَمُ، وَعَمُودُهُ الصَّلاَةُ",
+                "translation_json": "{'ml':'കാര്യത്തിന്റെ മേധാവി ഇസ്ലാമാണ്, അതിന്റെ തൂണ്‍ നിസ്‌കാരമാണ്.'}",
+                "book_slug": "al-tirmidhi",
+                "hadith_number": 2616
+            },
+            {
+                "simplified": "مُرُوا أَوْلاَدَكُمْ بِالصَّلاَةِ وَهُمْ أَبْنَاءُ سَبْعِ سِنِينَ",
+                "translation_json": "{'ml':'കുട്ടികൾ ഏഴു വയസാകുമ്പോൾ അവരെ നിസ്‌കാരത്തിലേക്ക് നിർദ്ദേശിക്കുക.'}",
+                "book_slug": "abu-dawud",
+                "hadith_number": 495
+            }
+        ],
+        "videos": [
+            {
+                "video_id": "s8y1ZbJpKkE",
+                "title": "{'ml':'നിസ്‌കാരം ആര്‍ക്ക് നിര്‍ബന്ധം? - ഇസ്ലാമിക പഠനം'}"
+            },
+            {
+                "video_id": "Pcz3ZFx_pVw",
+                "title": "{'ml':'Prayer in Islam - English Lecture'}"
+            }
+        ]
+    }
+]

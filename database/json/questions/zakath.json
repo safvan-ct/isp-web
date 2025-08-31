@@ -1,0 +1,80 @@
+[
+    {
+        "title": "Who should give Zakat?",
+        "translations": [
+            {
+                "lang": "en",
+                "title": "Who should give Zakat?"
+            },
+            {
+                "lang": "ml",
+                "title": "ആരൊക്കെ സകാത് കൊടുക്കണം?"
+            }
+        ]
+    },
+    {
+        "title": "How to give Zakat?",
+        "translations": [
+            {
+                "lang": "en",
+                "title": "How to give Zakat?"
+            },
+            {
+                "lang": "ml",
+                "title": "എങ്ങനെ ആണ് കൊടുക്കേണ്ടത്?"
+            }
+        ]
+    },
+    {
+        "title": "Who can receive Zakat?",
+        "translations": [
+            {
+                "lang": "en",
+                "title": "Who can receive Zakat?"
+            },
+            {
+                "lang": "ml",
+                "title": "ആർക്കാണ് കൊടുക്കേണ്ടത്?"
+            }
+        ]
+    },
+    {
+        "title": "What is Sadaqah and Nadr (Vow)?",
+        "translations": [
+            {
+                "lang": "en",
+                "title": "What is Sadaqah and Nadr (Vow)?"
+            },
+            {
+                "lang": "ml",
+                "title": "സ്വദഖയും നേർച്ചയും എന്താണ്?"
+            }
+        ]
+    },
+    {
+        "title": "Is it allowed to take money for Dua or Quran recitation?",
+        "translations": [
+            {
+                "lang": "en",
+                "title": "Is it allowed to take money for Dua or Quran recitation?"
+            },
+            {
+                "lang": "ml",
+                "title": "ദുആ അല്ലെങ്കിൽ ഖുർആൻ പാരായണം ചെയ്തതിന് പണം വേടിക്കുന്നത് ശരിയാണോ?"
+            }
+        ]
+    },
+    {
+        "title": "What about compulsory religious collections?",
+        "translations": [
+            {
+                "lang": "en",
+                "title": "What about compulsory religious collections?"
+            },
+            {
+                "lang": "ml",
+                "title": "നിർബന്ധിത മത പിരിവ് സംബന്ധിച്ച് എന്താണ്?"
+            }
+        ]
+    }
+]

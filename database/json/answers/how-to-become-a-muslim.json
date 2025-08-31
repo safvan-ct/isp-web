@@ -1,0 +1,54 @@
+[
+    {
+        "title": "How to become a Muslim",
+        "translations": [
+            {
+                "lang": "en",
+                "title": "How to become a Muslim?",
+                "desc": "In Islam, becoming a Muslim is simple and based on sincere belief. A person becomes a Muslim by testifying the Shahada: 'There is no god but Allah, and Muhammad is His Messenger.' This declaration, when done with belief in the heart and verbal confirmation, makes one a Muslim. It marks the beginning of a new life of faith, worship, and obedience to Allah."
+            },
+            {
+                "lang": "ml",
+                "title": "എങ്ങനെ മുസ്ലിം ആവാം?",
+                "desc": "ഇസ്ലാമിൽ മുസ്ലിം ആവുക വളരെ ലളിതമാണ്. ഒരാൾ മുസ്ലിം ആകുന്നത് 'അല്ലാഹുവൊഴികെ യാതൊരു ദൈവവുമില്ല, മുഹമ്മദ് അല്ലാഹുവിന്റെ ദൂതനാണ്' എന്ന ശഹാദത്ത് (വിശ്വാസപ്രമാണം) ഹൃദയത്തിൽ വിശ്വാസത്തോടെ വാചാലമായി സാക്ഷ്യപ്പെടുത്തുമ്പോഴാണ്. ഇത് സത്യസന്ധമായി പ്രഖ്യാപിക്കുന്നവൻ മുസ്ലിം ആകുന്നു. ഇതോടെ ഒരു പുതിയ വിശ്വാസജീവിതവും അല്ലാഹുവിന്റെ ആരാധനയിലും അനുസരണയിലും പ്രവേശനവുമാണ് തുടങ്ങുന്നത്."
+            }
+        ],
+        "quran": [
+            {
+                "simplified": "فَمَن يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِن بِاللَّهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ",
+                "translation_json": "{'ml':'താഘൂത്തിനെ (തെറ്റായ ദേവന്മാരെ) നിരസിക്കുകയും അല്ലാഹുവിൽ വിശ്വസിക്കുകയും ചെയ്യുന്നവൻ ഉറച്ച കൈപ്പിടി പിടിച്ചിരിക്കുന്നു.'}",
+                "number_in_chapter": 256,
+                "chapter": 2
+            },
+            {
+                "simplified": "قُولُوا آمَنَّا بِاللَّهِ وَمَا أُنزِلَ إِلَيْنَا",
+                "translation_json": "{'ml':'പറയുക: ഞങ്ങൾ അല്ലാഹുവിൽ വിശ്വസിക്കുന്നു, ഞങ്ങൾക്കു അവൻ ഇറക്കിയതിൽ വിശ്വസിക്കുന്നു.'}",
+                "number_in_chapter": 136,
+                "chapter": 2
+            }
+        ],
+        "hadiths": [
+            {
+                "simplified": "أُمرت أن أقاتل الناس حتى يشهدوا أن لا إله إلا الله وأن محمدا رسول الله",
+                "translation_json": "{'ml':'മനുഷ്യർ അല്ലാഹുവൊഴികെ യാതൊരു ദൈവവുമില്ല, മുഹമ്മദ് അല്ലാഹുവിന്റെ ദൂതനാണ് എന്ന് സാക്ഷ്യപ്പെടുത്തുന്നതുവരെ ഞാൻ പോരാടാൻ കല്പിക്കപ്പെട്ടിരിക്കുന്നു.'}",
+                "book_slug": "sahih-bukhari",
+                "hadith_number": 25
+            },
+            {
+                "simplified": "من قال لا إله إلا الله دخل الجنة",
+                "translation_json": "{'ml':'ആരെങ്കിലും അല്ലാഹുവൊഴികെ യാതൊരു ദൈവവുമില്ല എന്ന് പറഞ്ഞാൽ അവൻ സ്വർഗത്തിൽ പ്രവേശിക്കും.'}",
+                "book_slug": "sahih-muslim",
+                "hadith_number": 34
+            }
+        ],
+        "videos": [
+            {
+                "video_id": "dR8BL7c93uI",
+                "title": "{'ml':'എങ്ങനെ മുസ്ലിം ആവാം - ഡോ. സക്കീർ നായിക്'}"
+            },
+            {
+                "video_id": "3b6X5b7sU2c"
+            }
+        ]
+    }
+]
